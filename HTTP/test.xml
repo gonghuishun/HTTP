@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<youdao-fanyi>
+	<errorCode>0</errorCode>
+	<query><![CDATA[welcome]]></query>    <!-- 有道翻译 -->
+	<translation>
+		<paragraph><![CDATA[欢迎]]></paragraph>
+	</translation>    <!-- 有道词典-基本词典 -->
+	<basic>            <!-- 音标 -->
+		<phonetic><![CDATA['welkəm]]></phonetic>                <!-- 美式音标 -->
+		<us-phonetic><![CDATA['wɛlkəm]]></us-phonetic>                <!-- 英式音标 -->
+		<uk-phonetic><![CDATA['welkəm]]></uk-phonetic>            <!-- 基本释义 -->
+		<explains>
+			<ex><![CDATA[n. 欢迎]]></ex>
+			<ex><![CDATA[vt. 欢迎]]></ex>
+			<ex><![CDATA[adj. 受欢迎的]]></ex>
+			<ex><![CDATA[int. 欢迎]]></ex>
+			<ex><![CDATA[n. (Welcome)人名；(英)韦尔科姆]]></ex>
+		</explains>
+	</basic>    <!-- 有道词典-网络释义 -->
+	<web>
+		<explain>
+			<key><![CDATA[Welcome]]></key>
+			<value>
+				<ex><![CDATA[欢迎]]></ex>
+				<ex><![CDATA[欢迎访问]]></ex>
+				<ex><![CDATA[欢迎光临]]></ex>
+			</value>
+		</explain>
+		<explain>
+			<key><![CDATA[welcome to]]></key>
+			<value>
+				<ex><![CDATA[欢迎到来]]></ex>
+				<ex><![CDATA[欢迎到]]></ex>
+				<ex><![CDATA[欢迎参加]]></ex>
+			</value>
+		</explain>
+		<explain>
+			<key><![CDATA[Welcome Swallow]]></key>
+			<value>
+				<ex><![CDATA[喜燕]]></ex>
+				<ex><![CDATA[喜燕]]></ex>
+			</value>
+		</explain>
+	</web>
+</youdao-fanyi>
